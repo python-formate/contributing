@@ -4,8 +4,8 @@ Contributing Guide
 
 .. start short_desc
 
-**Contributing guide for repo-helper and associated projects**
+**Contributing guide for projects in the python-formate organization**
 
 .. end short_desc
 
-View online at https://contributing.repo-helper.uk
+View online at https://contributing-to-formate.readthedocs.io/

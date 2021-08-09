@@ -102,4 +102,5 @@ def setup(app):
 nitpicky = True
 del version
 del release
-html_title = "repo-helper Contributing Guide"
+html_title = "formate Contributing Guide"
+html_logo = "formate.png"
