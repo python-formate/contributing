@@ -4,11 +4,11 @@ modname: 'contributing'
 copyright_years: '2020-2021'
 author: 'Dominic Davis-Foster'
 email: 'dominic@davis-foster.co.uk'
-username: 'repo-helper'
+username: 'python-formate'
 assignee: 'domdfcoding'
 version: '2021.0.0'
 license: 'MIT'
-short_desc: 'Contributing guide for repo-helper and associated projects'
+short_desc: 'Contributing guide for projects in the python-formate organization'
 
 use_whey: True
 docs_fail_on_warning: true
@@ -16,7 +16,7 @@ sphinx_html_theme: furo
 enable_tests: false
 enable_conda: false
 on_pypi: false
-docs_url: https://contributing.repo-helper.uk
+docs_url: https://contributing-to-formate.readthedocs.io
 
 python_versions:
  - '3.8'
@@ -25,7 +25,8 @@ sphinx_conf_epilogue:
  - nitpicky = True
  - del version
  - del release
- - html_title = "repo-helper Contributing Guide"
+ - html_title = "formate Contributing Guide"
+ - html_logo = "formate.png"
 
 extra_sphinx_extensions:
  - html_section
@@ -34,3 +35,5 @@ exclude_files:
  - contributing
  - Source_rst
  - license_rst
+
+preserve_custom_theme: true
