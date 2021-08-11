@@ -8,4 +8,4 @@ Contributing Guide
 
 .. end short_desc
 
-View online at https://contributing.repo-helper.uk
+View online at https://contributing-to-formate.readthedocs.io/
